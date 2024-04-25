@@ -16,3 +16,10 @@ Each course consists of seven parts, with its own set of exercises.
 5. Calculating with numbers
 6. Conditional statements and conditional operation
 7. Programming in our society
+
+**Part 2:**
+1. Recurring problems and patterns to solve them
+2. Repeating functionality
+3. More loops
+4. Methods and dividing the program into smaller parts
+5. End questionnaire
