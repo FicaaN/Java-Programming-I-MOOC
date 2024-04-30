@@ -23,3 +23,10 @@ Each course consists of seven parts, with its own set of exercises.
 3. More loops
 4. Methods and dividing the program into smaller parts
 5. End questionnaire
+
+**Part 3:**
+1. Discovering errors
+2. Lists
+3. Arrays
+4. Using strings
+5. Summary
