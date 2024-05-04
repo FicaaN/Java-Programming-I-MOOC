@@ -30,3 +30,9 @@ Each course consists of seven parts, with its own set of exercises.
 3. Arrays
 4. Using strings
 5. Summary
+
+**Part 4:**
+1. Introduction to object-oriented programming
+2. Objects in a list
+3. Files and reading data
+4. Summary
