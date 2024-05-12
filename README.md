@@ -36,3 +36,10 @@ Each course consists of seven parts, with its own set of exercises.
 2. Objects in a list
 3. Files and reading data
 4. Summary
+
+**Part 5:**
+1. Learning object-oriented programming
+2. Removing repetitive code (overloading methods and constructors)
+3. Primitive and reference variables
+4. Objects and references
+5. Conclusion
