@@ -49,3 +49,9 @@ Each course consists of seven parts, with its own set of exercises.
 2. Separating the user interface from program logic
 3. Introduction to testing
 4. Complex programs
+
+**Part 7:**
+1. Programming paradigms
+2. Algorithms
+3. Larger programming exercises
+4. Conclusion
